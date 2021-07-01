@@ -45,7 +45,11 @@ namespace API2.Services
         {
             var personEdit = _personContext.People.Find(id);
 
-            personEdit = person;
+            personEdit.FirstName = person.FirstName;
+            personEdit.LastName = person.LastName;
+            personEdit.BirthPlace = person.BirthPlace;
+            personEdit.DateofBirth =  person.DateofBirth;
+            personEdit.Gender =  person.Gender;
 
             _personContext.SaveChanges();
         }

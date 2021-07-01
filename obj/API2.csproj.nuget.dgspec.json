@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\API2\\API2.csproj": {}
+    "d:\\C#\\API2\\API2.csproj": {}
   },
   "projects": {
-    "D:\\C#\\API2\\API2.csproj": {
+    "d:\\C#\\API2\\API2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\API2\\API2.csproj",
+        "projectUniqueName": "d:\\C#\\API2\\API2.csproj",
         "projectName": "API2",
-        "projectPath": "D:\\C#\\API2\\API2.csproj",
+        "projectPath": "d:\\C#\\API2\\API2.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\API2\\obj\\",
+        "outputPath": "d:\\C#\\API2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
